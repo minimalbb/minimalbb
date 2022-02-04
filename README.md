@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my profile. I am a begginer learning to code. 
+- 🔭 I’m currently working on ...
+  -  Github Pages
+- 🌱 I’m currently learning ...
+  - Python
+  - Data structure
+  - Algorithm
+
 <!--
 **minimalbb/minimalbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
