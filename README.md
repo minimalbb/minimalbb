@@ -2,7 +2,8 @@
 
 Welcome to my profile. I am a begginer learning to code. 
 - 🔭 I’m currently working on ...
-  -  Github Pages
+  -  3D CAD geometry creation scripting (python)
+  -  Simulation automation (python)
 - 🌱 I’m currently learning ...
   - Python
   - Data structure
